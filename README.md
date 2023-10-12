@@ -22,7 +22,7 @@ let callback = (a) => { return 100 + a };
 ### Завдання 2
 JavaScript змінна може зберігати значення будь-якого типу:
 ```ts
-let anything = -20;
+let anything: = -20;
 anything = 'Text';
 anything = {};
 ```
